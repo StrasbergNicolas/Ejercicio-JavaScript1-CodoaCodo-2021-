@@ -1,0 +1,38 @@
+
+.convertite{
+    text-align:center; 
+
+}
+#convertir{
+    margin-top: 10px;
+}
+
+#lol{
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.convert{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+ span{
+     text-decoration: none;
+    border-bottom:1px dotted black;
+}
+
+.form-group{
+    justify-content: center;
+    margin-top: 10px;
+    display: flex;
+}
+
+.nombreape {
+    width: 320px;
+    padding: 5px 5px;
+    margin: 0px 10px;
+
+}
